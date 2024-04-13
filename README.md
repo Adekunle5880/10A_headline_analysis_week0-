@@ -24,22 +24,29 @@ analysis looks at correlations between different parameters, such as sentiment,
 website traffic, and the frequency of news reports.
 
 Approach:
+
 ● Data Loading and Preparation: Load and preprocess the dataset using Python
 programming, taking care of any missing values and guaranteeing consistency.
 
 ● Exploratory Data Analysis (EDA): Examine important aspects of the data, spotting
 trends, patterns, and outliers using statistical analysis and visualization
 approaches.
+
 ● Sentiment Analysis: Using natural language processing (NLP) tools, applicants
 examine the tone and sentiment distribution of news story titles to gain insights
 regarding media agencies.
+
 ● Correlation Analysis: To gain important insights, candidates examine correlations
 between various factors, such as website traffic, sentiment, and the frequency of
 news reports, using statistical methodologies and visualizations.
+
+
 Outcome:
 ● A thorough analysis report that summarizes the conclusions and revelations
 from the sentiment, correlation, and EDA analyses.
+
 ● supporting the study with statistical summaries and visualizations that help in
 understanding and interpreting the data.
+
 ● insights on the worldwide news media scene, including major players, prevailing
 sentiments, and possible relationships between various elements.
